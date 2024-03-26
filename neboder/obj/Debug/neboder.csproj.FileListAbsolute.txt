@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.Form1.resources
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\neboder\neboder\bin\Debug\neboder.exe.config
+C:\Users\Ucenik\Desktop\neboder\neboder\bin\Debug\neboder.exe
+C:\Users\Ucenik\Desktop\neboder\neboder\bin\Debug\neboder.pdb
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.exe
+C:\Users\Ucenik\Desktop\neboder\neboder\obj\Debug\neboder.pdb
